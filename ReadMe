@@ -29,7 +29,7 @@ docker run --gpus all -it object_detection_yolo
 3. Car Counter project
 create mask and ensure its has the same size (1280*720) pixcel
 ## Car Counter Demo  
-![Car Counter Animation](Video%20GIF/CarCounter.gif)
+![Alt Text](Video%20GIF/CarCounter.gif)
 
 4. People counter project:
 
