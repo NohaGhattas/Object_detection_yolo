@@ -6,8 +6,17 @@ This models contain some projects such as:
 This model for image detection 
 ## YOLOv8 Model Comparisons
 
-![YOLOv8 Nano](images/yolo_v8n.png)
-![YOLOv8 Large](images/yolo_v8l.png)
+<table>
+  <tr>
+    <td align="center"><strong>YOLOv8 Nano</strong></td>
+    <td align="center"><strong>YOLOv8 Large</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/yolo_v8n.png" width="400"/></td>
+    <td><img src="images/yolo_v8l.png" width="400"/></td>
+  </tr>
+</table>
+
 2. Yolo-Webcam project
 
 This project is detecting items using webcam
