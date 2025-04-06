@@ -4,10 +4,8 @@ This models contain some projects such as:
 1. YOLO-Basics 
 
 This model for image detection 
-
-![YOLO VESION 8 N](images/YOLO V 8n.png)
-
-![YOLO VESION 8 L](images/YOLO V8L.png)
+![YOLO V8 Nano](images/yolo_v8n.png)
+![YOLO V8 Large](images/yolo_v8l.png)
 
 2. Yolo-Webcam project
 
