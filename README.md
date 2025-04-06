@@ -15,8 +15,16 @@ This project is detecting items using webcam
 ![Webcam Demo Video](Video GIF/Yolo WEBCAM.gif)
 
 I will modify on the same code to detect items from recorded video 
-![Bikes Demo Video](Video GIF/Yolo bikes video detection.gif) ![cars Demo Video](Video GIF/Yolo cars video detection.gif)
-![cars Demo Video](Video GIF/Yolo motorbike detection.gif)     ![cars Demo Video](Video GIF/Yolo people video detection.gif)
+## Video Detection Demos
+
+### Modified Video Processing
+I will modify the same code to detect items from recorded video:
+
+![Bikes Detection](Video%20GIF/Yolo%20bikes%20video%20detection.gif)  
+![Cars Detection](Video%20GIF/Yolo%20cars%20video%20detection.gif)  
+![Motorbike Detection](Video%20GIF/Yolo%20motorbike%20detection.gif)  
+![People Detection](Video%20GIF/Yolo%20people%20video%20detection.gif)  
+
 <img src="Video GIF/Yolo people video detection.gif" width="500"/>
 
 Running Yolo with GPUs
