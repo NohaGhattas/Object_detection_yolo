@@ -14,7 +14,8 @@ This model for image detection
 
 This project is detecting items using webcam
 
-![Webcam Demo Video](Video GIF/Yolo WEBCAM.gif)
+## Webcam Detection Demo
+![YOLO Webcam Detection](Video%20GIF/Yolo%20WEBCAM.gif)
 
 I will modify on the same code to detect items from recorded video 
 ## Video Detection Demos
