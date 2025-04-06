@@ -25,7 +25,6 @@ I will modify the same code to detect items from recorded video:
 ![Motorbike Detection](Video%20GIF/Yolo%20motorbike%20detection.gif)  
 ![People Detection](Video%20GIF/Yolo%20people%20video%20detection.gif)  
 
-<img src="Video GIF/Yolo people video detection.gif" width="500"/>
 
 Running Yolo with GPUs
 
